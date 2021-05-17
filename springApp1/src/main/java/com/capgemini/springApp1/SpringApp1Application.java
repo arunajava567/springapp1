@@ -12,6 +12,9 @@ public class SpringApp1Application {
 		
 		
 		SpringApplication.run(SpringApp1Application.class, args);
+		
+		
+		
 		//System.out.println("Hello123sadsawith credentialsdfdsfdfdsf ");
 	}
 
